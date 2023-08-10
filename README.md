@@ -2,7 +2,7 @@
 
 This is a Front-end Sample Sign-up Form I made during my The Odin Project Course. It includes form validation for UX
 
-Tech-stack used:
+Tech stack used:
   - HTML
   - CSS
   - Vanilla JavaScript
