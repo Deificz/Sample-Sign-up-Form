@@ -1,5 +1,8 @@
 # Sample-Sign-up-Form
 
-This is a Front-end Sample Sign-up Form I made during my The Odin Project Course
+This is a Front-end Sample Sign-up Form I made during my The Odin Project Course. It includes form validation for UX
 
-It includes form validation for UX
+Tech-stack used:
+  - HTML
+  - CSS
+  - Vanilla JavaScript
