@@ -7,4 +7,4 @@ Tech stack used:
   - CSS
   - Vanilla JavaScript
 
-**Live preview:** deificz.github.io/Sample-Sign-up-Form/
+**Live preview:** https://deificz.github.io/Sample-Sign-up-Form/
